@@ -903,11 +903,11 @@
         
         function shareWord(word) {
             const url = `${window.location.origin}${window.location.pathname}?word=${encodeURIComponent(word.toLowerCase())}`;
-            const text = `Check out the word "${word}" in the Conlang Dictionary!`;
+            const text = `Check out the word "${word}" in the Dazhazhir Dictionary!`;
             
             if (navigator.share) {
                 navigator.share({
-                    title: `Conlang Dictionary - ${word}`,
+                    title: `Dazhazhir Dictionary - ${word}`,
                     text: text,
                     url: url,
                 });
@@ -933,7 +933,7 @@ ${definition}
 
 ${synonyms ? `Synonyms: ${synonyms}` : ''}
 ---
-From Conlang Dictionary
+From Dazhazhir Dictionary
             `.trim();
             
             navigator.clipboard.writeText(textToCopy).then(() => {
@@ -1013,7 +1013,7 @@ From Conlang Dictionary
                         <div class="filter-label">Search Type:</div>
                         <select id="searchType" class="filter-select">
                             <option value="all" selected>All Fields</option>
-                            <option value="word">Conlang Word</option>
+                            <option value="word">Dazhazhir Word</option>
                             <option value="definition">Definition</option>
                             <option value="synonyms">English Synonyms</option>
                         </select>
@@ -1191,7 +1191,7 @@ From Conlang Dictionary
             
             const link = document.createElement('a');
             link.href = dataUri;
-            link.download = 'conlang-dictionary.json';
+            link.download = 'dictionary.json';
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
@@ -1237,7 +1237,7 @@ From Conlang Dictionary
         function updateWordCount() {
             const count = document.querySelectorAll('.word-entry').length;
             document.getElementById('wordCount').textContent = `Total words in dictionary: ${count}`;
-            document.title = `Conlang Dictionary (${count} words)`;
+            document.title = `Dazhazhir Dictionary (${count} words)`;
         }
         
         // ========== INITIALIZATION ==========
