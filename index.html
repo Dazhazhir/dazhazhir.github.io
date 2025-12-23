@@ -779,7 +779,7 @@
     <div class="search-info" id="searchInfo"></div>
     
     <script>
-        // ========== MORE POPUP FUNCTIONS ==========
+        
         
         function showMorePopup() {
             const popupHTML = `
@@ -795,10 +795,9 @@
                 </div>
             `;
             
-            // Insert popup into container
+         
             document.getElementById('morePopupContainer').innerHTML = popupHTML;
             
-            // Add event listeners
             document.getElementById('morePopupCloseBtn').addEventListener('click', closeMorePopup);
             document.getElementById('morePopup').addEventListener('click', function(e) {
                 if (e.target === this) {
@@ -806,19 +805,15 @@
                 }
             });
             
-            // Prevent body scrolling when popup is open
             document.body.style.overflow = 'hidden';
         }
         
         function closeMorePopup() {
-            // Remove popup
             document.getElementById('morePopupContainer').innerHTML = '';
             
-            // Restore body scrolling
             document.body.style.overflow = 'auto';
         }
         
-        // ========== WORD POPUP FUNCTIONS ==========
         
         function showWordPopup(wordEntry) {
             const word = wordEntry.getAttribute('data-word');
@@ -827,11 +822,9 @@
             const definition = wordEntry.querySelector('.definition').textContent;
             const synonyms = wordEntry.getAttribute('data-synonyms') || '';
             
-            // Update URL with word parameter
             const newUrl = `${window.location.pathname}?word=${encodeURIComponent(word.toLowerCase())}`;
             window.history.pushState({word: word}, '', newUrl);
             
-            // Create popup HTML
             const popupHTML = `
                 <div class="word-popup-overlay" id="wordPopup">
                     <div class="word-popup">
@@ -869,35 +862,28 @@
                 </div>
             `;
             
-            // Insert popup into container
             document.getElementById('wordPopupContainer').innerHTML = popupHTML;
             
-            // Add event listeners for popup buttons
             document.getElementById('popupCloseBtn').addEventListener('click', closePopup);
             document.getElementById('shareBtn').addEventListener('click', () => shareWord(word));
             document.getElementById('cameraBtn').addEventListener('click', () => captureWordPopup(word));
             document.getElementById('copyBtn').addEventListener('click', () => copyWordDetails(word, ipa, pos, definition, synonyms));
             
-            // Also close popup when clicking outside
             document.getElementById('wordPopup').addEventListener('click', function(e) {
                 if (e.target === this) {
                     closePopup();
                 }
             });
             
-            // Prevent body scrolling when popup is open
             document.body.style.overflow = 'hidden';
         }
         
         function closePopup() {
-            // Remove popup
             document.getElementById('wordPopupContainer').innerHTML = '';
             
-            // Update URL to remove word parameter
             const newUrl = window.location.pathname;
             window.history.pushState({}, '', newUrl);
             
-            // Restore body scrolling
             document.body.style.overflow = 'auto';
         }
         
@@ -912,7 +898,6 @@
                     url: url,
                 });
             } else {
-                // Fallback: copy to clipboard
                 navigator.clipboard.writeText(`${text}\n${url}`).then(() => {
                     alert('Link copied to clipboard!');
                 });
@@ -937,7 +922,6 @@ From Dazhazhir Dictionary
             `.trim();
             
             navigator.clipboard.writeText(textToCopy).then(() => {
-                // Show temporary feedback
                 const copyBtn = document.getElementById('copyBtn');
                 const originalText = copyBtn.innerHTML;
                 copyBtn.innerHTML = '<span>✓</span> Copied!';
@@ -950,22 +934,18 @@ From Dazhazhir Dictionary
             });
         }
         
-        // Check URL for word parameter on page load
         function checkUrlForWord() {
             const urlParams = new URLSearchParams(window.location.search);
             const wordParam = urlParams.get('word');
             
             if (wordParam) {
-                // Find the word entry and show its popup
                 const wordEntry = document.querySelector(`.word-entry[data-word="${wordParam.toLowerCase()}"]`);
                 if (wordEntry) {
-                    // Small delay to ensure page is loaded
                     setTimeout(() => showWordPopup(wordEntry), 100);
                 }
             }
         }
         
-        // ========== EXISTING FUNCTIONS ==========
         
         function addVerticalLetterNav() {
             const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
@@ -1240,25 +1220,18 @@ From Dazhazhir Dictionary
             document.title = `Dazhazhir Dictionary (${count} words)`;
         }
         
-        // ========== INITIALIZATION ==========
         
         document.addEventListener('DOMContentLoaded', function() {
-            // Add event listener to More button
             document.getElementById('moreButton').addEventListener('click', showMorePopup);
             
             addVerticalLetterNav();
             addFilterControls();
             sortDictionary();
             
-            // Add click handlers to word entries
             document.querySelectorAll('.word-entry').forEach(entry => {
                 entry.addEventListener('click', () => showWordPopup(entry));
             });
             
-            // Check URL for word parameter
-            checkUrlForWord();
-            
-            // Handle browser back/forward buttons
             window.addEventListener('popstate', function(event) {
                 checkUrlForWord();
             });
