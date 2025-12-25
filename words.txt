@@ -1,221 +1,71 @@
-<div class="word-entry" data-word="vi" data-pos="adjective,prefix" data-definition="(adj.) Having qualities traditionally associated with men or boys. Of or denoting a gender of nouns and adjectives, conventionally regarded as male. (prefix) Masculine gender marker" data-synonyms="masculine,male,manly">
-    <div class="word-header">Vi <span class="ipa">/fi:/</span> <span class="pos">adjective, prefix</span></div>
-    <div class="definition">(adj.) Having qualities traditionally associated with men or boys. Of or denoting a gender of nouns and adjectives, conventionally regarded as male.<br>(prefix) Masculine gender marker</div>
+<div class="letter-heading" id="letter-A">A</div>
+
+<div class="word-entry" data-word="apa" data-pos="preposition" data-definition="Beyond; after." data-synonyms="beyond,after,past">
+    <div class="word-header">Apa <span class="ipa">/äp.ä/</span> <span class="pos">preposition</span></div>
+    <div class="definition">Beyond; after.</div>
 </div>
 
-<div class="word-entry" data-word="zhu" data-pos="adjective,prefix" data-definition="(adj.) Having qualities traditionally associated with women or girls. Of or denoting a gender of nouns and adjectives, conventionally regarded as female. (prefix) Feminine gender marker" data-synonyms="feminine,female,womanly">
-    <div class="word-header">Zhu <span class="ipa">/ʃʊ/</span> <span class="pos">adjective, prefix</span></div>
-    <div class="definition">(adj.) Having qualities traditionally associated with women or girls. Of or denoting a gender of nouns and adjectives, conventionally regarded as female.<br>(prefix) Feminine gender marker</div>
-</div>
+<div class="letter-heading" id="letter-B">B</div>
 
-<div class="word-entry" data-word="zi" data-pos="adjective,prefix" data-definition="(adj.) Non-conforming to traditional gender denominations; Neither masculine nor feminine. (prefix) Non-binary gender marker" data-synonyms="non-binary,gender-neutral,nonconforming">
-    <div class="word-header">Zi <span class="ipa">/'si:/</span> <span class="pos">adjective, prefix</span></div>
-    <div class="definition">(adj.) Non-conforming to traditional gender denominations; Neither masculine nor feminine.<br>(prefix) Non-binary gender marker</div>
-</div>
-
-<div class="word-entry" data-word="ben" data-pos="noun,suffix" data-definition="(n.) A human being. A character with personified traits. (suffix) Marks a person or character" data-synonyms="person,human,individual,being">
+<div class="word-entry" data-word="ben" data-pos="noun,suffix" data-definition="(n.) A human being; A character with personified traits. (suffix) Marks a person or character" data-synonyms="person,human,individual,being">
     <div class="word-header">Ben <span class="ipa">/bɛn/</span> <span class="pos">noun, suffix</span></div>
-    <div class="definition">(n.) A human being. A character with personified traits.<br>(suffix) Marks a person or character</div>
-</div>
-
-<div class="word-entry" data-word="viben" data-pos="noun" data-definition="(n.) A human identifying with the social role of a male." data-synonyms="man,male,masculine person">
-    <div class="word-header">Viben <span class="ipa">/fi:.'bɛn/</span> <span class="pos">noun</span></div>
-    <div class="definition">(n.) A human identifying with the social role of a male.</div>
-</div>
-
-<div class="word-entry" data-word="zhuben" data-pos="noun" data-definition="(n.) A human identifying with the social role of a female." data-synonyms="woman,female,feminine person">
-    <div class="word-header">Zhuben <span class="ipa">/ʃʊ.'bɛn/</span> <span class="pos">noun</span></div>
-    <div class="definition">(n.) A human identifying with the social role of a female.</div>
-</div>
-
-<div class="word-entry" data-word="ziben" data-pos="noun" data-definition="(n.) A human identifying outside of the binary social roles of male and female." data-synonyms="non-binary person,genderqueer person,enby">
-    <div class="word-header">Ziben <span class="ipa">/'si:.bɛn/</span> <span class="pos">noun</span></div>
-    <div class="definition">(n.) A human identifying outside of the binary social roles of male and female.</div>
+    <div class="definition">(n.) A human being; A character with personified traits.<br>(suffix) Marks a person or character</div>
 </div>
 
 <div class="word-entry" data-word="bona" data-pos="pronoun" data-definition="First Person singular" data-synonyms="I,me,myself">
-    <div class="word-header">Bona <span class="ipa">/'bu.nä/</span> <span class="pos">pronoun</span></div>
+    <div class="word-header">Bona <span class="ipa">/’bu.nä/</span> <span class="pos">pronoun</span></div>
     <div class="definition">First Person singular</div>
 </div>
 
 <div class="word-entry" data-word="bonazh" data-pos="pronoun" data-definition="First Person plural" data-synonyms="we,us,ourselves">
-    <div class="word-header">Bonazh <span class="ipa">/'bu.näʃ/</span> <span class="pos">pronoun</span></div>
+    <div class="word-header">Bonazh <span class="ipa">/’bu.näʃ/</span> <span class="pos">pronoun</span></div>
     <div class="definition">First Person plural</div>
 </div>
 
-<div class="word-entry" data-word="dona" data-pos="pronoun" data-definition="Second Person singular" data-synonyms="you,yourself">
-    <div class="word-header">Dona <span class="ipa">/'du.nä/</span> <span class="pos">pronoun</span></div>
-    <div class="definition">Second Person singular</div>
-</div>
+<div class="letter-heading" id="letter-D">D</div>
 
-<div class="word-entry" data-word="donazh" data-pos="pronoun" data-definition="Second Person plural" data-synonyms="you all,y'all,yourselves">
-    <div class="word-header">Donazh <span class="ipa">/'du.näʃ/</span> <span class="pos">pronoun</span></div>
-    <div class="definition">Second Person plural</div>
-</div>
-
-<div class="word-entry" data-word="kona" data-pos="pronoun" data-definition="Third Person singular (gender unknown, irrelevant, or non-binary)" data-synonyms="they,them,their">
-    <div class="word-header">Kona <span class="ipa">/'ku.nä/</span> <span class="pos">pronoun</span></div>
-    <div class="definition">Third Person singular (gender unknown, irrelevant, or non-binary)</div>
-</div>
-
-<div class="word-entry" data-word="konazh" data-pos="pronoun" data-definition="Third Person plural" data-synonyms="they,them,their (plural)">
-    <div class="word-header">Konazh <span class="ipa">/'ku.näʃ/</span> <span class="pos">pronoun</span></div>
-    <div class="definition">Third Person plural</div>
-</div>
-
-<div class="word-entry" data-word="vikona" data-pos="pronoun" data-definition="Third person masculine" data-synonyms="he,him,his">
-    <div class="word-header">Vikona <span class="ipa">/'fi:.ku.nä/</span> <span class="pos">pronoun</span></div>
-    <div class="definition">Third person masculine</div>
-</div>
-
-<div class="word-entry" data-word="zhukona" data-pos="pronoun" data-definition="Third person feminine" data-synonyms="she,her,hers">
-    <div class="word-header">Zhukona <span class="ipa">/'ʃʊ.ku.nä/</span> <span class="pos">pronoun</span></div>
-    <div class="definition">Third person feminine</div>
-</div>
-
-<div class="word-entry" data-word="e" data-pos="preposition" data-definition="Marks the beginning of a prepositional phrase. Applies to words after it until the prepositional object is stated. Syntax: {subject} e {preposition} {object}; e.g., 'Ben e uta [placeholder]'='ben is touching [placeholder]'" data-synonyms="preposition marker">
-    <div class="word-header">E <span class="ipa">/ɛ/</span> <span class="pos">preposition</span></div>
-    <div class="definition">Marks the beginning of a prepositional phrase. Applies to words after it until the prepositional object is stated. Syntax: {subject} e {preposition} {object}; e.g., "Ben e uta [placeholder]"="ben is touching [placeholder]"</div>
-</div>
-
-<div class="word-entry" data-word="de" data-pos="preposition" data-definition="Marks a place of beginning, from; Before" data-synonyms="from,beginning,starting at,before">
-    <div class="word-header">De <span class="ipa">/dɛ/</span> <span class="pos">preposition</span></div>
-    <div class="definition">Marks a place of beginning, from; Before</div>
-</div>
-
-<div class="word-entry" data-word="tu" data-pos="preposition" data-definition="Marks an indication of position; there." data-synonyms="there,at that place,position">
-    <div class="word-header">Tu <span class="ipa">/tʊ/</span> <span class="pos">preposition</span></div>
-    <div class="definition">Marks an indication of position; there.</div>
-</div>
-
-<div class="word-entry" data-word="uta" data-pos="preposition" data-definition="Marks a direct physical relationship between subject and prepositional object; sometimes modified by other prepositional words." data-synonyms="to,toward,direct object marker,touching,contact">
-    <div class="word-header">Uta <span class="ipa">/ʊt.ä/</span> <span class="pos">preposition</span></div>
-    <div class="definition">Marks a direct physical relationship between subject and prepositional object; sometimes modified by other prepositional words.</div>
-</div>
-
-<div class="word-entry" data-word="o" data-pos="preposition" data-definition="Of (possession)" data-synonyms="of,belonging to,possessive">
-    <div class="word-header">O <span class="ipa">/u/</span> <span class="pos">preposition</span></div>
-    <div class="definition">Of (possession)</div>
-</div>
-
-<div class="word-entry" data-word="nek" data-pos="preposition" data-definition="In, inside, among, between, through; during, while" data-synonyms="in,inside,among,between,through,during,while">
-    <div class="word-header">Nek <span class="ipa">/nɛk/</span> <span class="pos">preposition</span></div>
-    <div class="definition">In, inside, among, between, through; during, while</div>
-</div>
-
-<div class="word-entry" data-word="uba" data-pos="preposition" data-definition="Marks a temporal relationship between the subject and prepositional object" data-synonyms="during,while,when,temporal">
-    <div class="word-header">Uba <span class="ipa">/ʊb.ä/</span> <span class="pos">preposition</span></div>
-    <div class="definition">Marks a temporal relationship between the subject and prepositional object</div>
-</div>
-
-<div class="word-entry" data-word="apa" data-pos="preposition" data-definition="Beyond; after" data-synonyms="beyond,after,past">
-    <div class="word-header">Apa <span class="ipa">/äp.ä/</span> <span class="pos">preposition</span></div>
-    <div class="definition">Beyond; after</div>
-</div>
-
-<div class="word-entry" data-word="ijo" data-pos="preposition,adverb" data-definition="About, concerning" data-synonyms="about,concerning,regarding">
-    <div class="word-header">Ijo <span class="ipa">/i:ju/</span> <span class="pos">preposition, adverb</span></div>
-    <div class="definition">About, concerning</div>
-</div>
-
-<div class="word-entry" data-word="vir" data-pos="verb" data-definition="(v.) To be. Example: 'Ben vir viben' (Person is man)" data-synonyms="be,exist,is,are,am">
-    <div class="word-header">Vir <span class="ipa">/fi:r/</span> <span class="pos">verb</span></div>
-    <div class="definition">(v.) To be. Example: "Ben vir viben" (Person is man)</div>
-</div>
-
-<div class="word-entry" data-word="ken" data-pos="verb" data-definition="(v.) To walk" data-synonyms="walk,go by foot,stroll">
-    <div class="word-header">Ken <span class="ipa">/kɛn/</span> <span class="pos">verb</span></div>
-    <div class="definition">(v.) To walk</div>
-</div>
-
-<div class="word-entry" data-word="kuter" data-pos="verb" data-definition="(v.) To cut" data-synonyms="cut,slice,sever">
-    <div class="word-header">Kuter <span class="ipa">/kʊ.tɛr/</span> <span class="pos">verb</span></div>
-    <div class="definition">(v.) To cut</div>
-</div>
-
-<div class="word-entry" data-word="kuli" data-pos="verb" data-definition="(v.) To swim" data-synonyms="swim,float,tread,dive">
-    <div class="word-header">Kuli <span class="ipa">/kʊ.li:/</span> <span class="pos">verb</span></div>
-    <div class="definition">(v.) To swim</div>
-</div>
-
-<div class="word-entry" data-word="dazh" data-pos="verb" data-definition="(v.) To speak or talk; to have a conversation" data-synonyms="speak,talk,communicate,converse">
+<div class="word-entry" data-word="dazh" data-pos="verb" data-definition="(v.) To speak or talk; to have a conversation." data-synonyms="talk,speak,communicate,conversation,tell,speech">
     <div class="word-header">Dazh <span class="ipa">/däʃ/</span> <span class="pos">verb</span></div>
-    <div class="definition">(v.) To speak or talk; to have a conversation</div>
+    <div class="definition">(v.) To speak or talk; to have a conversation.</div>
 </div>
 
-<div class="word-entry" data-word="kutera" data-pos="noun" data-definition="(n.) A cut or opening created by unnatural means, specifically human activity" data-synonyms="cut,opening,incision,slash">
-    <div class="word-header">Kutera <span class="ipa">/kʊt.ɛr.ä/</span> <span class="pos">noun</span></div>
-    <div class="definition">(n.) A cut or opening created by unnatural means, specifically human activity</div>
-</div>
-
-<div class="word-entry" data-word="kula" data-pos="noun" data-definition="(n.) Water; a fluid object" data-synonyms="water,liquid,fluid,drink">
-    <div class="word-header">Kula <span class="ipa">/kʊ.lä/</span> <span class="pos">noun</span></div>
-    <div class="definition">(n.) Water; a fluid object</div>
-</div>
-
-<div class="word-entry" data-word="zhir" data-pos="noun" data-definition="(n.) A source" data-synonyms="source,origin,fountain,spring">
-    <div class="word-header">Zhir <span class="ipa">/ʃi:r/</span> <span class="pos">noun</span></div>
-    <div class="definition">(n.) A source</div>
-</div>
-
-<div class="word-entry" data-word="kulazhir" data-pos="noun" data-definition="(n.) A water source, especially a water fountain or headwater. Taken from kula and zhir" data-synonyms="water source,fountain,headwater,spring">
-    <div class="word-header">Kulazhir <span class="ipa">/kʊ.lä.'ʃi:r/</span> <span class="pos">noun</span></div>
-    <div class="definition">(n.) A water source, especially a water fountain or headwater. Taken from kula and zhir</div>
-</div>
-
-<div class="word-entry" data-word="dazha" data-pos="noun" data-definition="(n.) Language, communication, speech; the act of talking or communicating; a conversation" data-synonyms="language,communication,speech,conversation,talking">
+<div class="word-entry" data-word="dazha" data-pos="noun" data-definition="(n.) Language, communication, speech; the act of talking or communicating; a conversation" data-synonyms="language,communication,speech,talking,communicating,conversation">
     <div class="word-header">Dazha <span class="ipa">/däʃ.ä/</span> <span class="pos">noun</span></div>
     <div class="definition">(n.) Language, communication, speech; the act of talking or communicating; a conversation</div>
 </div>
 
-<div class="word-entry" data-word="ja" data-pos="adjective" data-definition="This, that; specifies which one through context" data-synonyms="this,that,which">
-    <div class="word-header">Ja <span class="ipa">/jä/</span> <span class="pos">adjective</span></div>
-    <div class="definition">This, that; specifies which one through context</div>
+<div class="word-entry" data-word="de" data-pos="preposition" data-definition="Marks a place of beginning; from; before." data-synonyms="from,beginning,starting at,before">
+    <div class="word-header">De <span class="ipa">/dɛ/</span> <span class="pos">preposition</span></div>
+    <div class="definition">Marks a place of beginning; from; before.</div>
 </div>
 
-<div class="word-entry" data-word="niz" data-pos="number" data-definition="Zero" data-synonyms="0,zero,none">
-    <div class="word-header">Niz <span class="ipa">/ni:s/</span> <span class="pos">number</span></div>
-    <div class="definition">Zero</div>
+<div class="word-entry" data-word="dona" data-pos="pronoun" data-definition="Second Person singular" data-synonyms="you,yourself">
+    <div class="word-header">Dona <span class="ipa">/’du.nä/</span> <span class="pos">pronoun</span></div>
+    <div class="definition">Second Person singular</div>
 </div>
 
-<div class="word-entry" data-word="zodi" data-pos="number" data-definition="One" data-synonyms="1,one">
-    <div class="word-header">Zodi <span class="ipa">/sud.'i:/</span> <span class="pos">number</span></div>
-    <div class="definition">One</div>
+<div class="word-entry" data-word="donazh" data-pos="pronoun" data-definition="Second Person plural" data-synonyms="you all,y'all,yourselves">
+    <div class="word-header">Donazh <span class="ipa">/’du.näʃ/</span> <span class="pos">pronoun</span></div>
+    <div class="definition">Second Person plural</div>
 </div>
 
-<div class="word-entry" data-word="podi" data-pos="number" data-definition="Two" data-synonyms="2,two">
-    <div class="word-header">Podi <span class="ipa">/pud.'i:/</span> <span class="pos">number</span></div>
-    <div class="definition">Two</div>
+<div class="letter-heading" id="letter-E">E</div>
+
+<div class="word-entry" data-word="e" data-pos="preposition" data-definition="Marks the beginning of a prepositional phrase. Applies to words after it until the prepositional object is stated. Syntax: {subject} e {preposition} {object}; e.g., 'Ben e uta [placeholder]'='ben is touching [placeholder]'" data-synonyms="at,preposition marker">
+    <div class="word-header">E <span class="ipa">/ɛ/</span> <span class="pos">preposition</span></div>
+    <div class="definition">Marks the beginning of a prepositional phrase. Applies to words after it until the prepositional object is stated. Syntax: {subject} e {preposition} {object}; e.g., "Ben e uta [placeholder]"="ben is touching [placeholder]"</div>
 </div>
+
+<div class="word-entry" data-word="er" data-pos="particle" data-definition="Number grouping particle; represents parentheses. Used around numbers, both before and after, to indicate mathematical parenthesis. Example: 'Er hodi gulo todi er julo lahodi' (also written as '(7 + 5) • 70')" data-synonyms="parentheses,grouping,brackets">
+    <div class="word-header">Er <span class="ipa">/ɛr/</span> <span class="pos">particle</span></div>
+    <div class="definition">Number grouping particle; represents parentheses. Used around numbers, both before and after, to indicate mathematical parenthesis. Example: "Er hodi gulo todi er julo lahodi" (also written as "(7 + 5) • 70")</div>
+</div>
+
+<div class="letter-heading" id="letter-G">G</div>
 
 <div class="word-entry" data-word="godi" data-pos="number" data-definition="Three" data-synonyms="3,three">
     <div class="word-header">Godi <span class="ipa">/dʒud.'i:/</span> <span class="pos">number</span></div>
     <div class="definition">Three</div>
-</div>
-
-<div class="word-entry" data-word="podizh" data-pos="number" data-definition="Four" data-synonyms="4,four">
-    <div class="word-header">Podizh <span class="ipa">/pud.'i:ʃ/</span> <span class="pos">number</span></div>
-    <div class="definition">Four</div>
-</div>
-
-<div class="word-entry" data-word="todi" data-pos="number" data-definition="Five" data-synonyms="5,five">
-    <div class="word-header">Todi <span class="ipa">/tud.'i:/</span> <span class="pos">number</span></div>
-    <div class="definition">Five</div>
-</div>
-
-<div class="word-entry" data-word="godizh" data-pos="number" data-definition="Six" data-synonyms="6,six">
-    <div class="word-header">Godizh <span class="ipa">/dʒud.'i:ʃ/</span> <span class="pos">number</span></div>
-    <div class="definition">Six</div>
-</div>
-
-<div class="word-entry" data-word="hodi" data-pos="number" data-definition="Seven" data-synonyms="7,seven">
-    <div class="word-header">Hodi <span class="ipa">/hud.'i:/</span> <span class="pos">number</span></div>
-    <div class="definition">Seven</div>
-</div>
-
-<div class="word-entry" data-word="podizha" data-pos="number" data-definition="Eight" data-synonyms="8,eight">
-    <div class="word-header">Podizha <span class="ipa">/pud.'i:ʃä/</span> <span class="pos">number</span></div>
-    <div class="definition">Eight</div>
 </div>
 
 <div class="word-entry" data-word="godija" data-pos="number" data-definition="Nine" data-synonyms="9,nine">
@@ -223,9 +73,161 @@
     <div class="definition">Nine</div>
 </div>
 
+<div class="word-entry" data-word="godizh" data-pos="number" data-definition="Six" data-synonyms="6,six">
+    <div class="word-header">Godizh <span class="ipa">/dʒud.'i:ʃ/</span> <span class="pos">number</span></div>
+    <div class="definition">Six</div>
+</div>
+
+<div class="word-entry" data-word="gulo" data-pos="operator" data-definition="Added to; used in between two numbers. Also written as +. Example: 'Podi gulo podi tola Podizh' (also written as '2 + 2 = 4')" data-synonyms="plus,add,addition">
+    <div class="word-header">Gulo <span class="ipa">/dʒʊ.lu/</span> <span class="pos">operator</span></div>
+    <div class="definition">Added to; used in between two numbers. Also written as +. Example: "Podi gulo podi tola Podizh" (also written as "2 + 2 = 4")</div>
+</div>
+
+<div class="letter-heading" id="letter-H">H</div>
+
+<div class="word-entry" data-word="hodi" data-pos="number" data-definition="Seven" data-synonyms="7,seven">
+    <div class="word-header">Hodi <span class="ipa">/hud.'i:/</span> <span class="pos">number</span></div>
+    <div class="definition">Seven</div>
+</div>
+
+<div class="word-entry" data-word="hulo" data-pos="operator" data-definition="Reduced by; used in between two numbers. Also written as -. Example: 'Lazodi hulo todi tola todi' (also written as '10 - 5 = 5')" data-synonyms="minus,subtract,subtraction">
+    <div class="word-header">Hulo <span class="ipa">/hʊ.lu/</span> <span class="pos">operator</span></div>
+    <div class="definition">Reduced by; used in between two numbers. Also written as -. Example: "Lazodi hulo todi tola todi" (also written as "10 - 5 = 5")</div>
+</div>
+
+<div class="letter-heading" id="letter-I">I</div>
+
+<div class="word-entry" data-word="ijo" data-pos="preposition,adverb" data-definition="About" data-synonyms="about,concerning,regarding">
+    <div class="word-header">Ijo <span class="ipa">/i:ju/</span> <span class="pos">preposition, adverb</span></div>
+    <div class="definition">About</div>
+</div>
+
+<div class="letter-heading" id="letter-J">J</div>
+
+<div class="word-entry" data-word="ja" data-pos="adjective" data-definition="This, that; specifies which one through context" data-synonyms="this,that,which">
+    <div class="word-header">Ja <span class="ipa">/jä/</span> <span class="pos">adjective</span></div>
+    <div class="definition">This, that; specifies which one through context</div>
+</div>
+
+<div class="word-entry" data-word="julo" data-pos="operator" data-definition="Multiplied by; used in between two numbers. Also written as × or •. Example: 'Godija julo lazodi tola lagodija' (also written as '9 × 10 = 90' or '9 • 10 = 90')" data-synonyms="multiply,times,multiplication">
+    <div class="word-header">Julo <span class="ipa">/jʊ.lu/</span> <span class="pos">operator</span></div>
+    <div class="definition">Multiplied by; used in between two numbers. Also written as × or •. Example: "Godija julo lazodi tola lagodija" (also written as "9 × 10 = 90" or "9 • 10 = 90")</div>
+</div>
+
+<div class="letter-heading" id="letter-K">K</div>
+
+<div class="word-entry" data-word="ken" data-pos="verb" data-definition="(v.) To walk." data-synonyms="walk,go by foot,stroll">
+    <div class="word-header">Ken <span class="ipa">/kɛn/</span> <span class="pos">verb</span></div>
+    <div class="definition">(v.) To walk.</div>
+</div>
+
+<div class="word-entry" data-word="kona" data-pos="pronoun" data-definition="Third Person singular (gender unknown, irrelevant, or non-binary)" data-synonyms="they,them,their">
+    <div class="word-header">Kona <span class="ipa">/’ku.nä/</span> <span class="pos">pronoun</span></div>
+    <div class="definition">Third Person singular (gender unknown, irrelevant, or non-binary)</div>
+</div>
+
+<div class="word-entry" data-word="konazh" data-pos="pronoun" data-definition="Third Person plural" data-synonyms="they,them,their (plural)">
+    <div class="word-header">Konazh <span class="ipa">/’ku.näʃ/</span> <span class="pos">pronoun</span></div>
+    <div class="definition">Third Person plural</div>
+</div>
+
+<div class="word-entry" data-word="kula" data-pos="noun" data-definition="(n.) Water, a fluid object" data-synonyms="liquid,water,juice,drink,fluid,wet,damp,liquor">
+    <div class="word-header">Kula <span class="ipa">/kʊ.lä/</span> <span class="pos">noun</span></div>
+    <div class="definition">(n.) Water, a fluid object</div>
+</div>
+
+<div class="word-entry" data-word="kulazhir" data-pos="noun" data-definition="(n.) A water source, especially a water fountain or headwater. Taken from kula and zhir" data-synonyms="water source,fountain,headwater,spring">
+    <div class="word-header">Kulazhir <span class="ipa">/kʊ.lä.'ʃi:r/</span> <span class="pos">noun</span></div>
+    <div class="definition">(n.) A water source, especially a water fountain or headwater. Taken from kula and zhir</div>
+</div>
+
+<div class="word-entry" data-word="kuli" data-pos="verb" data-definition="(v.) To swim." data-synonyms="float,tread,dive,swim">
+    <div class="word-header">Kuli <span class="ipa">/kʊ.li:/</span> <span class="pos">verb</span></div>
+    <div class="definition">(v.) To swim.</div>
+</div>
+
+<div class="word-entry" data-word="kuter" data-pos="verb" data-definition="(v.) To cut." data-synonyms="cut,slice,sever">
+    <div class="word-header">Kuter <span class="ipa">/kʊ.tɛr/</span> <span class="pos">verb</span></div>
+    <div class="definition">(v.) To cut.</div>
+</div>
+
+<div class="word-entry" data-word="kutera" data-pos="noun" data-definition="(n.) A cut or opening created by unnatural means, specifically human activity." data-synonyms="cut,opening,incision,slash">
+    <div class="word-header">Kutera <span class="ipa">/kʊt.ɛr.ä/</span> <span class="pos">noun</span></div>
+    <div class="definition">(n.) A cut or opening created by unnatural means, specifically human activity.</div>
+</div>
+
+<div class="letter-heading" id="letter-L">L</div>
+
 <div class="word-entry" data-word="la" data-pos="prefix" data-definition="Tens prefix for numbers. Added for every place it moves. Example: Podi = two, Lapodi = 20, Lalapodi = 200, Lalalapodi = 2000" data-synonyms="tens,prefix,multiplier">
     <div class="word-header">La <span class="ipa">/lä/</span> <span class="pos">prefix</span></div>
     <div class="definition">Tens prefix for numbers. Added for every place it moves. Example: Podi = two, Lapodi = 20, Lalapodi = 200, Lalalapodi = 2000</div>
+</div>
+
+<div class="letter-heading" id="letter-M">M</div>
+
+<div class="word-entry" data-word="math" data-pos="noun" data-definition="Numbers and equations serve as single nouns in a sentence" data-synonyms="mathematics,numbers,equations">
+    <div class="word-header">Math <span class="ipa"></span> <span class="pos">noun</span></div>
+    <div class="definition">Numbers and equations serve as single nouns in a sentence</div>
+</div>
+
+<div class="letter-heading" id="letter-N">N</div>
+
+<div class="word-entry" data-word="nek" data-pos="preposition" data-definition="In, inside, in the middle of, among, between, through; during, while." data-synonyms="in,inside,among,between,through,during,while">
+    <div class="word-header">Nek <span class="ipa">/nɛk/</span> <span class="pos">preposition</span></div>
+    <div class="definition">In, inside, in the middle of, among, between, through; during, while.</div>
+</div>
+
+<div class="word-entry" data-word="ni" data-pos="particle,adjective" data-definition="Marks negation; not. Example: 'Ben ja vir ken ni' (Person this is walk not)" data-synonyms="not,negation,negative">
+    <div class="word-header">Ni <span class="ipa">/ni:/</span> <span class="pos">particle, adjective</span></div>
+    <div class="definition">Marks negation; not. Example: "Ben ja vir ken ni" (Person this is walk not)</div>
+</div>
+
+<div class="word-entry" data-word="niz" data-pos="number" data-definition="Zero" data-synonyms="0,zero,none">
+    <div class="word-header">Niz <span class="ipa">/ni:s/</span> <span class="pos">number</span></div>
+    <div class="definition">Zero</div>
+</div>
+
+<div class="letter-heading" id="letter-O">O</div>
+
+<div class="word-entry" data-word="o" data-pos="preposition" data-definition="Of." data-synonyms="of,belonging to,possessive">
+    <div class="word-header">O <span class="ipa">/u/</span> <span class="pos">preposition</span></div>
+    <div class="definition">Of.</div>
+</div>
+
+<div class="letter-heading" id="letter-P">P</div>
+
+<div class="word-entry" data-word="podi" data-pos="number" data-definition="Two" data-synonyms="2,two">
+    <div class="word-header">Podi <span class="ipa">/pud.'i:/</span> <span class="pos">number</span></div>
+    <div class="definition">Two</div>
+</div>
+
+<div class="word-entry" data-word="podizh" data-pos="number" data-definition="Four" data-synonyms="4,four">
+    <div class="word-header">Podizh <span class="ipa">/pud.'i:ʃ/</span> <span class="pos">number</span></div>
+    <div class="definition">Four</div>
+</div>
+
+<div class="word-entry" data-word="podizha" data-pos="number" data-definition="Eight" data-synonyms="8,eight">
+    <div class="word-header">Podizha <span class="ipa">/pud.'i:ʃä/</span> <span class="pos">number</span></div>
+    <div class="definition">Eight</div>
+</div>
+
+<div class="word-entry" data-word="pulo" data-pos="operator" data-definition="Divided by; used in between two numbers. Also written as / or ÷. Example: 'Lalapodi pulo podi tola lalazodi' (also written as '200 / 2 = 100' or '200 ÷ 2 = 100')" data-synonyms="divide,division,divided by">
+    <div class="word-header">Pulo <span class="ipa">/pʊ.lu/</span> <span class="pos">operator</span></div>
+    <div class="definition">Divided by; used in between two numbers. Also written as / or ÷. Example: "Lalapodi pulo podi tola lalazodi" (also written as "200 / 2 = 100" or "200 ÷ 2 = 100")</div>
+</div>
+
+<div class="letter-heading" id="letter-R">R</div>
+
+<div class="word-entry" data-word="ri" data-pos="particle" data-definition="Place separator for compound numbers. Example: Lalalapodi ri lalatodi ri lagodi ri zodi = 251" data-synonyms="and,separator,connector">
+    <div class="word-header">Ri <span class="ipa"></span> <span class="pos">particle</span></div>
+    <div class="definition">Place separator for compound numbers. Example: Lalalapodi ri lalatodi ri lagodi ri zodi = 251</div>
+</div>
+
+<div class="letter-heading" id="letter-T">T</div>
+
+<div class="word-entry" data-word="todi" data-pos="number" data-definition="Five" data-synonyms="5,five">
+    <div class="word-header">Todi <span class="ipa">/tud.'i:/</span> <span class="pos">number</span></div>
+    <div class="definition">Five</div>
 </div>
 
 <div class="word-entry" data-word="tola" data-pos="operator" data-definition="Equals; used after a sequence of numbers and operators; also written as =" data-synonyms="equals,equal to,is">
@@ -233,37 +235,90 @@
     <div class="definition">Equals; used after a sequence of numbers and operators; also written as =</div>
 </div>
 
-<div class="word-entry" data-word="gulo" data-pos="operator" data-definition="Added to; used in between two numbers. Also written as +. Example: 'Podi gulo podi tola Podizh' (2 + 2 = 4)" data-synonyms="plus,add,addition">
-    <div class="word-header">Gulo <span class="ipa">/dʒʊ.lu/</span> <span class="pos">operator</span></div>
-    <div class="definition">Added to; used in between two numbers. Also written as +. Example: "Podi gulo podi tola Podizh" (2 + 2 = 4)</div>
+<div class="word-entry" data-word="tu" data-pos="preposition" data-definition="Marks an indication of position; there." data-synonyms="there,at that place,position">
+    <div class="word-header">Tu <span class="ipa">/tʊ/</span> <span class="pos">preposition</span></div>
+    <div class="definition">Marks an indication of position; there.</div>
 </div>
 
-<div class="word-entry" data-word="hulo" data-pos="operator" data-definition="Reduced by; used in between two numbers. Also written as -. Example: 'Lazodi hulo todi tola todi' (10 - 5 = 5)" data-synonyms="minus,subtract,subtraction">
-    <div class="word-header">Hulo <span class="ipa">/hʊ.lu/</span> <span class="pos">operator</span></div>
-    <div class="definition">Reduced by; used in between two numbers. Also written as -. Example: "Lazodi hulo todi tola todi" (10 - 5 = 5)</div>
+<div class="letter-heading" id="letter-U">U</div>
+
+<div class="word-entry" data-word="uba" data-pos="preposition" data-definition="Marks a temporal relationship between the subject and prepositional object." data-synonyms="during,while,when,temporal">
+    <div class="word-header">Uba <span class="ipa">/ʊb.ä/</span> <span class="pos">preposition</span></div>
+    <div class="definition">Marks a temporal relationship between the subject and prepositional object.</div>
 </div>
 
-<div class="word-entry" data-word="pulo" data-pos="operator" data-definition="Divided by; used in between two numbers. Also written as / or ÷. Example: 'Lalapodi pulo podi tola lalazodi' (200 / 2 = 100)" data-synonyms="divide,division,divided by">
-    <div class="word-header">Pulo <span class="ipa">/pʊ.lu/</span> <span class="pos">operator</span></div>
-    <div class="definition">Divided by; used in between two numbers. Also written as / or ÷. Example: "Lalapodi pulo podi tola lalazodi" (200 / 2 = 100)</div>
+<div class="word-entry" data-word="uta" data-pos="preposition" data-definition="Marks a direct relationship between subject and prepositional object; sometimes modified by other prepositional words." data-synonyms="on,touching,contact,against">
+    <div class="word-header">Uta <span class="ipa">/ʊt.ä/</span> <span class="pos">preposition</span></div>
+    <div class="definition">Marks a direct relationship between subject and prepositional object; sometimes modified by other prepositional words.</div>
 </div>
 
-<div class="word-entry" data-word="julo" data-pos="operator" data-definition="Multiplied by; used in between two numbers. Also written as × or •. Example: 'Godija julo lazodi tola lagodija' (9 × 10 = 90)" data-synonyms="multiply,times,multiplication">
-    <div class="word-header">Julo <span class="ipa">/jʊ.lu/</span> <span class="pos">operator</span></div>
-    <div class="definition">Multiplied by; used in between two numbers. Also written as × or •. Example: "Godija julo lazodi tola lagodija" (9 × 10 = 90)</div>
+<div class="word-entry" data-word="utu" data-pos="preposition,particle" data-definition="(prep.) shows direction, destination, or movement towards something (particle) indicates the direct object in a sentence" data-synonyms="to,toward,direct object marker">
+    <div class="word-header">Utu <span class="ipa">/ʊtʊ/</span> <span class="pos">preposition, particle</span></div>
+    <div class="definition">(prep.) shows direction, destination, or movement towards something<br>(particle) indicates the direct object in a sentence</div>
 </div>
 
-<div class="word-entry" data-word="er" data-pos="particle" data-definition="Number grouping particle; represents parentheses. Used around numbers, both before and after, to indicate mathematical parenthesis. Example: 'Er hodi gulo todi er julo lahodi' ((7 + 5) • 70)" data-synonyms="parentheses,grouping,brackets">
-    <div class="word-header">Er <span class="ipa">/ɛr/</span> <span class="pos">particle</span></div>
-    <div class="definition">Number grouping particle; represents parentheses. Used around numbers, both before and after, to indicate mathematical parenthesis. Example: "Er hodi gulo todi er julo lahodi" ((7 + 5) • 70)</div>
+<div class="letter-heading" id="letter-V">V</div>
+
+<div class="word-entry" data-word="vi" data-pos="adjective,prefix" data-definition="(adj.) Having qualities traditionally associated with men or boys; Of or denoting a gender of nouns and adjectives, conventionally regarded as male. (prefix) Masculine gender marker" data-synonyms="masculine,male,manly">
+    <div class="word-header">Vi <span class="ipa">/fi:/</span> <span class="pos">adjective, prefix</span></div>
+    <div class="definition">(adj.) Having qualities traditionally associated with men or boys; Of or denoting a gender of nouns and adjectives, conventionally regarded as male.<br>(prefix) Masculine gender marker</div>
 </div>
 
-<div class="word-entry" data-word="ri" data-pos="particle" data-definition="Place separator for compound numbers. Example: Lalalapodi ri lalatodi ri lagodi ri zodi = 251" data-synonyms="and,separator,connector">
-    <div class="word-header">Ri <span class="ipa"></span> <span class="pos">particle</span></div>
-    <div class="definition">Place separator for compound numbers. Example: Lalalapodi ri lalatodi ri lagodi ri zodi = 251</div>
+<div class="word-entry" data-word="viben" data-pos="noun" data-definition="(n.) A human identifying with the social role of a male." data-synonyms="man,male,masculine person">
+    <div class="word-header">Viben <span class="ipa">/fi:.'bɛn/</span> <span class="pos">noun</span></div>
+    <div class="definition">(n.) A human identifying with the social role of a male.</div>
 </div>
 
-<div class="word-entry" data-word="ni" data-pos="particle,adjective" data-definition="Marks negation; not. Example: 'Ben ja vir ken ni' (This person is not walking)" data-synonyms="not,negation,negative">
-    <div class="word-header">Ni <span class="ipa">/ni:/</span> <span class="pos">particle, adjective</span></div>
-    <div class="definition">Marks negation; not. Example: "Ben ja vir ken ni" (This person is not walking)</div>
+<div class="word-entry" data-word="vikona" data-pos="pronoun" data-definition="Third person masculine" data-synonyms="he,him,his">
+    <div class="word-header">Vikona <span class="ipa">/'fi:.ku.nä/</span> <span class="pos">pronoun</span></div>
+    <div class="definition">Third person masculine</div>
+</div>
+
+<div class="word-entry" data-word="vir" data-pos="verb" data-definition="(v.) To be. Example: 'Ben vir viben' (Person is man)" data-synonyms="be,exist,is,are,am">
+    <div class="word-header">Vir <span class="ipa">/fi:r/</span> <span class="pos">verb</span></div>
+    <div class="definition">(v.) To be. Example: "Ben vir viben" (Person is man)</div>
+</div>
+
+<div class="letter-heading" id="letter-W">W</div>
+
+<div class="word-entry" data-word="w" data-pos="" data-definition="Note: W is part of the Dazhazhir alphabet but no words currently start with W">
+    <div class="word-header">W <span class="ipa"></span> <span class="pos"></span></div>
+    <div class="definition">Note: W is part of the Dazhazhir alphabet but no words currently start with W</div>
+</div>
+
+<div class="letter-heading" id="letter-Z">Z</div>
+
+<div class="word-entry" data-word="zi" data-pos="adjective,prefix" data-definition="(adj.) Non-conforming to traditional gender denominations; Neither masculine nor feminine. (prefix) Non-binary gender marker" data-synonyms="non-binary,gender-neutral,nonconforming">
+    <div class="word-header">Zi <span class="ipa">/'si:/</span> <span class="pos">adjective, prefix</span></div>
+    <div class="definition">(adj.) Non-conforming to traditional gender denominations; Neither masculine nor feminine.<br>(prefix) Non-binary gender marker</div>
+</div>
+
+<div class="word-entry" data-word="ziben" data-pos="noun" data-definition="(n.) A human identifying outside of the binary social roles of male and female." data-synonyms="non-binary person,genderqueer person,enby">
+    <div class="word-header">Ziben <span class="ipa">/'si:.bɛn/</span> <span class="pos">noun</span></div>
+    <div class="definition">(n.) A human identifying outside of the binary social roles of male and female.</div>
+</div>
+
+<div class="word-entry" data-word="zhu" data-pos="adjective,prefix" data-definition="(adj.) Having qualities traditionally associated with women or girls; Of or denoting a gender of nouns and adjectives, conventionally regarded as female. (prefix) Feminine gender marker" data-synonyms="feminine,female,womanly">
+    <div class="word-header">Zhu <span class="ipa">/ʃʊ/</span> <span class="pos">adjective, prefix</span></div>
+    <div class="definition">(adj.) Having qualities traditionally associated with women or girls; Of or denoting a gender of nouns and adjectives, conventionally regarded as female.<br>(prefix) Feminine gender marker</div>
+</div>
+
+<div class="word-entry" data-word="zhuben" data-pos="noun" data-definition="(n.) A human identifying with the social role of a female." data-synonyms="woman,female,feminine person">
+    <div class="word-header">Zhuben <span class="ipa">/ʃʊ.'bɛn/</span> <span class="pos">noun</span></div>
+    <div class="definition">(n.) A human identifying with the social role of a female.</div>
+</div>
+
+<div class="word-entry" data-word="zhukona" data-pos="pronoun" data-definition="Third person feminine" data-synonyms="she,her,hers">
+    <div class="word-header">Zhukona <span class="ipa">/'ʃʊ.ku.nä/</span> <span class="pos">pronoun</span></div>
+    <div class="definition">Third person feminine</div>
+</div>
+
+<div class="word-entry" data-word="zhir" data-pos="noun" data-definition="(n.) A source." data-synonyms="source,fountain,origin,creator,creation">
+    <div class="word-header">Zhir <span class="ipa">/ʃi:r/</span> <span class="pos">noun</span></div>
+    <div class="definition">(n.) A source.</div>
+</div>
+
+<div class="word-entry" data-word="zodi" data-pos="number" data-definition="One" data-synonyms="1,one">
+    <div class="word-header">Zodi <span class="ipa">/sud.'i:/</span> <span class="pos">number</span></div>
+    <div class="definition">One</div>
 </div>
